@@ -1,0 +1,22 @@
+{
+  "wheel_id": 617,
+  "structure": "umbrella",
+  "slug": "melbournenorthkitchenrenovation-151",
+  "project": "kitchen-renovations-melbourne-north-planning-guide-c60e5108a76e",
+  "parent_t1_ref": "melbournenorthkitchenrenovation-010",
+  "node_role": "buffer",
+  "money_target": "melbournenorthkitchenrenovation.com.au",
+  "primary_kw": "kitchen renovations melbourne north planning guide",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-melbourne-north-planning-guide-c60e5108a76e/",
+  "tier": "T2",
+  "writeback_nonce": "f3925f995099831a",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/kitchen-renovations-melbourne-north-010/",
+      "anchor": "this kitchen renovations melbourne north guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
